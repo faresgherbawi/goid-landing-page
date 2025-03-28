@@ -1,6 +1,6 @@
-# Goid Landing Page
+# Beef Landing Page
 
-### A modern landing page for Goid, built using HTML, CSS, and JavaScript.
+### A modern landing page for Beef, built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
