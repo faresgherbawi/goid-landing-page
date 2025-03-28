@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View Demo](https://faresgherbawi.github.io/goid-landing-page/)
+🔗 [View Demo](https://faresgherbawi.github.io/Beef-landing-page/)
 
 
 ## 📌 Features
